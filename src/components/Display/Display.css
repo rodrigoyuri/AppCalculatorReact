@@ -1,0 +1,12 @@
+.display {
+    background-color: #00000057;
+    grid-column: span 4;
+    font-size: 2rem;
+    font-weight: bold;
+
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    color: white;
+    padding: 0 10px;
+}

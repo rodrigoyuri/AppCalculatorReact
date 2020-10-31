@@ -1,0 +1,9 @@
+.calculator {
+    height: 384px;
+    width: 320px;
+
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    border: solid 1px linear-gradient(to right, rgb(71, 118, 230), rgb(142, 84, 233));;
+    overflow: hidden;
+}

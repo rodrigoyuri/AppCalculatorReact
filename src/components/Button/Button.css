@@ -1,0 +1,30 @@
+.button {
+    background-color: black;
+    font-size: 1rem;
+    font-weight: bold;
+    color: white;
+    border: none;
+    outline: none;
+    margin: 1px;
+}
+
+.button-ac {
+    grid-column: span 3;
+}
+
+.button-equal {
+    grid-column: span 2;
+    background-color: #6b1cb4;
+}
+
+.button-transparency {
+    background-color: #000000b9;
+}
+
+.button:hover {
+    background-color: #808080a1;
+}
+
+.button:active {
+    background-color: #6b6a6aa1;
+}
